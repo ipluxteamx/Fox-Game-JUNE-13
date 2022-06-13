@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},"order":7,},
+    {"id":{"name":"spr_1025","path":"sprites/spr_1025/spr_1025.yy",},"order":30,},
     {"id":{"name":"obj_breakableGhost","path":"objects/obj_breakableGhost/obj_breakableGhost.yy",},"order":2,},
     {"id":{"name":"spr_slope","path":"sprites/spr_slope/spr_slope.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
@@ -217,6 +218,7 @@
     {"id":{"name":"obj_groundpoundeffect","path":"objects/obj_groundpoundeffect/obj_groundpoundeffect.yy",},"order":5,},
     {"id":{"name":"bg_forest2","path":"sprites/bg_forest2/bg_forest2.yy",},"order":4,},
     {"id":{"name":"notavalibleindemo","path":"sprites/notavalibleindemo/notavalibleindemo.yy",},"order":15,},
+    {"id":{"name":"obj_1025","path":"objects/obj_1025/obj_1025.yy",},"order":11,},
     {"id":{"name":"spr_speedlines","path":"sprites/spr_speedlines/spr_speedlines.yy",},"order":8,},
     {"id":{"name":"tile_hub","path":"sprites/tile_hub/tile_hub.yy",},"order":15,},
     {"id":{"name":"obj_fullsecreen","path":"objects/obj_fullsecreen/obj_fullsecreen.yy",},"order":10,},
@@ -225,6 +227,7 @@
     {"id":{"name":"spr_icecube","path":"sprites/spr_icecube/spr_icecube.yy",},"order":0,},
     {"id":{"name":"spr_coin","path":"sprites/spr_coin/spr_coin.yy",},"order":4,},
     {"id":{"name":"bg4","path":"sprites/bg4/bg4.yy",},"order":3,},
+    {"id":{"name":"spr_1025_get","path":"sprites/spr_1025_get/spr_1025_get.yy",},"order":31,},
     {"id":{"name":"scr_snowy_jump","path":"scripts/scr_snowy_jump/scr_snowy_jump.yy",},"order":5,},
     {"id":{"name":"yousuckroom","path":"rooms/yousuckroom/yousuckroom.yy",},"order":5,},
     {"id":{"name":"scr_player_levelend","path":"scripts/scr_player_levelend/scr_player_levelend.yy",},"order":3,},
@@ -232,6 +235,7 @@
     {"id":{"name":"placeholder64x64","path":"sprites/placeholder64x64/placeholder64x64.yy",},"order":9,},
     {"id":{"name":"obj_dasheffect","path":"objects/obj_dasheffect/obj_dasheffect.yy",},"order":7,},
     {"id":{"name":"bg2","path":"sprites/bg2/bg2.yy",},"order":1,},
+    {"id":{"name":"spr_player_idle122","path":"sprites/spr_player_idle122/spr_player_idle122.yy",},"order":32,},
     {"id":{"name":"bg_titlewalkon","path":"sprites/bg_titlewalkon/bg_titlewalkon.yy",},"order":5,},
     {"id":{"name":"obj_baddieded","path":"objects/obj_baddieded/obj_baddieded.yy",},"order":1,},
     {"id":{"name":"spr_door4","path":"sprites/spr_door4/spr_door4.yy",},"order":15,},
